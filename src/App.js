@@ -37,34 +37,34 @@ render() {
   const { property} = this.state;
   return (
     
-    <div className="App">
+<div className="App">
   
-      <nav className="nav">
-      
-
-     
-      <span className= "title"> <Typing>
-    <span>Adonis D. Ross: Web Developement</span>
-  </Typing></span>
-      <div className="wrap"><img  className="logo"  src={logo} alt="mylogo" /></div>
-      <div className="logo-wrap">
-      
+  <nav className="nav">
+    <span className= "title"> 
+      <Typing>
+        <span>Adonis D. Ross: Web Developement
+        </span>
+      </Typing>
+    </span>
+    <div className="wrap"><img  className="logo"  src={logo} alt="mylogo" /></div>
+    <div className="logo-wrap">
       <FontAwesomeIcon className="git" icon={faGithub} color="white"  link= "https://github.com/AdonisDRoss"/>
       <FontAwesomeIcon className="twitter" icon={faTwitter} color="blue" />
       <FontAwesomeIcon className="linkedin" icon={faLinkedinIn} color="green"/>
       <FontAwesomeIcon className="soundcloud" icon={faSoundcloud} color="darkred" />
       <FontAwesomeIcon className="gram" icon={faInstagram} color="black" />
-      </div></nav>
+    </div>
+  </nav>
      <i></i>
      <script type="javascript" src="./clouds.js"></script>
       <span className="clouds">
-      
-      <img className='cloud1' src={cloud1} alt='cloud1'/>
-      <img className='cloud2' src={cloud2} alt='cloud2'/>
+       <img className='cloud1' src={cloud1} alt='cloud1'/>
+       <img className='cloud2' src={cloud2} alt='cloud2'/>
        <img className='cloud3' src={cloud3} alt='cloud3'/>
        <img className='cloud4' src={cloud4} alt='cloud4'/>
-       <img className='cloud5' src={cloud5} alt='cloud5'/></span>
-       <div className="icons">
+       <img className='cloud5' src={cloud5} alt='cloud5'/>
+      </span>
+    <div className="icons">
     </div>
  
   <div className="buttons">
@@ -81,22 +81,10 @@ render() {
       <FontAwesomeIcon icon={faCss3Alt} color="lightblue" className="css"/><br></br>
       <FontAwesomeIcon icon={faJs} color="yellow" className="js"/><br></br>
       <FontAwesomeIcon icon={faReact} color="blue" className="react"/><br></br>
-      
-    
-
-      
-      
-      
-     
-      <footer className="footer">this is the footer    
-      
- 
-  
-</footer>
-    </div>
-    
-  );
-  
+  <footer className="footer">this is the footer    
+  </footer>
+</div>
+    ); 
 }}
 export default App;
 
