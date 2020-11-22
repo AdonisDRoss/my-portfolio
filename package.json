@@ -1,9 +1,9 @@
 {
   "name": "react-page",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
-    "homepage": "http://adonisdross.github.io/react-app",
+    "homepage": "http://adonisdross.github.io/react-apnpmnetsp",
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
     "@fortawesome/free-brands-svg-icons": "^5.15.1",
     "@fortawesome/free-regular-svg-icons": "^5.15.1",
