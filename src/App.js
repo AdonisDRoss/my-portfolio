@@ -40,20 +40,22 @@ render() {
 <div className="App">
   
   <nav className="nav">
-    <span className= "title"> 
-      <Typing>
-        <span>Adonis D. Ross: Web Developement
-        </span>
-      </Typing>
-    </span>
-    <div className="wrap"><img  className="logo"  src={logo} alt="mylogo" /></div>
     <div className="logo-wrap">
       <FontAwesomeIcon className="git" icon={faGithub} color="white"  link= "https://github.com/AdonisDRoss"/>
       <FontAwesomeIcon className="twitter" icon={faTwitter} color="blue" />
       <FontAwesomeIcon className="linkedin" icon={faLinkedinIn} color="green"/>
       <FontAwesomeIcon className="soundcloud" icon={faSoundcloud} color="darkred" />
       <FontAwesomeIcon className="gram" icon={faInstagram} color="black" />
+ 
+    <span className= "title"> 
+      <Typing>
+        <span>Adonis D. Ross: Web Developement
+        </span>
+      </Typing>
+    </span>
     </div>
+    <div className="wrap"><img  className="logo"  src={logo} alt="mylogo" /></div>
+
   </nav>
      <i></i>
      <script type="javascript" src="./clouds.js"></script>
