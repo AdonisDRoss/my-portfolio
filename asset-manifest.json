@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.a5cc2a67.chunk.css",
+    "main.js": "/my-portfolio/static/js/main.c14a6df4.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.c14a6df4.chunk.js.map",
+    "runtime-main.js": "/my-portfolio/static/js/runtime-main.6a39f435.js",
+    "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.6a39f435.js.map",
+    "static/js/2.dd61bdfb.chunk.js": "/my-portfolio/static/js/2.dd61bdfb.chunk.js",
+    "static/js/2.dd61bdfb.chunk.js.map": "/my-portfolio/static/js/2.dd61bdfb.chunk.js.map",
+    "static/js/3.1801d456.chunk.js": "/my-portfolio/static/js/3.1801d456.chunk.js",
+    "static/js/3.1801d456.chunk.js.map": "/my-portfolio/static/js/3.1801d456.chunk.js.map",
+    "index.html": "/my-portfolio/index.html",
+    "static/css/main.a5cc2a67.chunk.css.map": "/my-portfolio/static/css/main.a5cc2a67.chunk.css.map",
+    "static/js/2.dd61bdfb.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.dd61bdfb.chunk.js.LICENSE.txt",
+    "static/media/cloud1.bef41f92.png": "/my-portfolio/static/media/cloud1.bef41f92.png",
+    "static/media/cloud2.aa9fde0e.png": "/my-portfolio/static/media/cloud2.aa9fde0e.png",
+    "static/media/cloud3.5eb22167.png": "/my-portfolio/static/media/cloud3.5eb22167.png",
+    "static/media/cloud4.277ceeda.png": "/my-portfolio/static/media/cloud4.277ceeda.png",
+    "static/media/cloud5.24f80ed6.png": "/my-portfolio/static/media/cloud5.24f80ed6.png",
+    "static/media/App.css": "/my-portfolio/static/media/keybackground.cdb624ae.jpg",
+    "static/media/myhead.cc85f7e5.jpg": "/my-portfolio/static/media/myhead.cc85f7e5.jpg",
+    "static/media/wave.jpg": "/my-portfolio/static/media/wave.8d40f84c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a39f435.js",
+    "static/js/2.dd61bdfb.chunk.js",
+    "static/css/main.a5cc2a67.chunk.css",
+    "static/js/main.c14a6df4.chunk.js"
+  ]
+}
